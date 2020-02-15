@@ -6,5 +6,7 @@ The Bluespace Miner as-is is currently a 'dump-crap-parts-get-good-materials' ma
 
 Changelog
 🆑
+
 add: Bluespace Miner is actually affected by parts teirs. T4 parts produce material more quickly, and can even produce miniscule amounts of bluespace crystal
+
 /🆑
